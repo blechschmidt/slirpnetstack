@@ -6,7 +6,7 @@ toolchain go1.22.4
 
 require (
 	github.com/miekg/dns v1.1.52
-	github.com/opencontainers/runc v1.1.4
+	github.com/opencontainers/runc v1.1.12
 	github.com/opencontainers/runtime-spec v1.1.0-rc.1
 	github.com/vishvananda/netlink v1.2.1-beta.2
 	golang.org/x/sys v0.17.0
